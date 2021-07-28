@@ -1,0 +1,30 @@
+{
+  "id": "2705833",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3814441",
+      "name": "用户名",
+      "font_class": "yonghuming",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "20125871",
+      "name": "预警",
+      "font_class": "yujing",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "21009731",
+      "name": "上传",
+      "font_class": "shangchuan",
+      "unicode": "f43e",
+      "unicode_decimal": 62526
+    }
+  ]
+}
